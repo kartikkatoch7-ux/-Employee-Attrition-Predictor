@@ -1,0 +1,8 @@
+employee-attrition-ann/
+├── attrition_ann.ipynb              (rename Untitled7.ipynb)
+├── attrition_ann.keras              (your saved model)
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── KK_TIK_PRO.pdf                   (project report)
+├── README.md
+├── requirements.txt
+└── .gitignore
